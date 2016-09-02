@@ -1,6 +1,6 @@
 {
   "name": "ff.css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of `font-family` utilities with the BEM `.u-` prefix.",
   "main": "index.css",
   "browser": "./dist/ff.min.css",
