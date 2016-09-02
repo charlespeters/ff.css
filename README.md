@@ -19,15 +19,15 @@ npm i -S ff.css
 | u-system    |  system, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', 'SF UI Text', 'Segoe UI', 'Roboto', 'Noto Sans', 'Helvetica Neue', 'Lucida Grande', sans-serif |
 | u-sfmono    | 'SFMono-Regular', 'SF Mono', 'Menlo', 'Consolas', monospace                                 |
 | u-sanfrancisco | '.SFNSText-Regular', 'SF UI Text', 'Segoe UI', 'Roboto', 'Noto Sans', 'Helvetica Neue', 'Lucida Grande', sans-serif |
-| u-segoeui  | 'Segoe UI', 'Frutiger', 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif |
-| u-franklingothic  | 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif |
-| u-georgia  | 'Georgia', 'Times New Roman', 'Times', serif |
-| u-times  | 'Times', 'Times New Roman', 'PT Serif', serif |
-| u-athelas  | 'Athelas', 'Charter', 'Hoefler Text', 'Baskerville', 'Droid Serif', 'Georgia', 'Times', serif |
-| u-futura  | 'Futura', 'Trebuchet MS', Arial, sans-serif |
-| u-mono  | 'Input Mono', 'Roboto Mono', 'Source Code Pro', 'Menlo', 'Consolas', monospace |
-| u-baskerville  | 'Hoefler Text', 'Baskerville Old Face', Garamond, 'Times New Roman', serif |
-| u-inherit  | inherit |
+| u-segoeui   | 'Segoe UI', 'Frutiger', 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif |
+| u-franklingothic | 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif |
+| u-georgia   | 'Georgia', 'Times New Roman', 'Times', serif |
+| u-times     | 'Times', 'Times New Roman', 'PT Serif', serif |
+| u-athelas   | 'Athelas', 'Charter', 'Hoefler Text', 'Baskerville', 'Droid Serif', 'Georgia', 'Times', serif |
+| u-futura    | 'Futura', 'Trebuchet MS', Arial, sans-serif |
+| u-mono      | 'Input Mono', 'Roboto Mono', 'Source Code Pro', 'Menlo', 'Consolas', monospace |
+| u-hoefler   | 'Hoefler Text', 'Baskerville Old Face', Garamond, 'Times New Roman', serif |
+| u-inherit   | inherit |
 
 ## License
 
