@@ -1,0 +1,35 @@
+:root {
+  --ff-avenir: 'Avenir Next', 'Avenir', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Lucida Grande', san-serif;
+  --ff-charter: 'Charter', 'Bitstream Charter', 'Georgia', 'Times', serif;
+  --ff-helvetica: 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  --ff-roboto: 'Roboto', 'PT Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  --ff-system: system, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', 'SF UI Text', 'Segoe UI', 'Roboto', 'Noto Sans', 'Helvetica Neue', 'Lucida Grande', sans-serif;
+  --ff-sfmono: 'SFMono-Regular', 'SF Mono', 'Menlo', 'Consolas', monospace;
+  --ff-sanfrancisco: '.SFNSText-Regular', 'SF UI Text', 'Segoe UI', 'Roboto', 'Noto Sans', 'Helvetica Neue', 'Lucida Grande', sans-serif;
+  --segoe-ui: 'Segoe UI', 'Frutiger', 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif;
+  --franklin-gothic: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+  --georgia: 'Georgia', 'Times New Roman', 'Times', serif;
+  --times: 'Times', 'Times New Roman', 'PT Serif', serif;
+  --athelas: 'Athelas', 'Charter', 'Hoefler Text', 'Baskerville', 'Droid Serif', 'Georgia', 'Times', serif;
+  --futura: 'Futura', 'Trebuchet MS', Arial, sans-serif;
+  --mono: 'Input Mono', 'Roboto Mono', 'Source Code Pro', 'Menlo', 'Consolas', monospace;
+  --baskerville: 'Hoefler Text', 'Baskerville Old Face', Garamond, 'Times New Roman', serif;
+}
+
+
+.u-avenir { font-family: var(--ff-avenir); }
+.u-charter { font-family: var(--ff-charter); }
+.u-helvetica { font-family: var(--ff-helvetica); }
+.u-roboto { font-family: var(--ff-roboto); }
+.u-system { font-family: var(--ff-system); }
+.u-sfmono { font-family: var(--ff-sfmono); }
+.u-sanfrancisco { font-family: var(--ff-sanfrancisco); }
+.u-segoeui { font-family: var(--segoe-ui); }
+.u-franklingothic { font-family: var(--franklin-gothic); }
+.u-georgia { font-family: var(--georgia); }
+.u-times { font-family: var(--times); }
+.u-athelas { font-family: var(--athelas); }
+.u-futura { font-family: var(--futura); }
+.u-mono { font-family: var(--mono); }
+.u-baskerville { font-family: var(--baskerville); }
+.u-ff-inherit { font-family: inherit; }

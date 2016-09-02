@@ -1,0 +1,21 @@
+{
+  "use": [
+    "postcss-custom-properties",
+    "cssnano",
+    "postcss-reporter"
+  ],
+  "input": "./index.css",
+  "output": "./dist/ff.min.css",
+  "local-plugins": true,
+  "cssnano": {
+    "filterPlugins": false,
+    "mergeRules": false,
+    "discardEmpty": true,
+    "discardComments": {
+      "removeAllButFirst": true
+    }
+  },
+  "postcss-reporter": {
+    "clearMessages": true
+  }
+}

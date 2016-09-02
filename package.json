@@ -1,0 +1,43 @@
+{
+  "name": "ff.css",
+  "version": "0.0.1",
+  "description": "A collection of `font-family` utilities with the BEM `.u-` prefix.",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "postcss -c .postcss.json",
+    "lint": "stylelint ./index.css",
+    "prepublish": "npm run bundle"
+  },
+  "author": "charles peters <charlespeters42@gmail.com> (https://charlespeters.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^3.7.4",
+    "postcss-cli": "^2.6.0",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-reporter": "^1.4.1",
+    "stylelint": "^7.2.0"
+  },
+  "dependencies": {
+    "cssnano": "^3.7.4",
+    "postcss-cli": "^2.6.0",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-reporter": "^1.4.1",
+    "stylelint": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlespeters/ff.css.git"
+  },
+  "keywords": [
+    "css",
+    "typography",
+    "font-families",
+    "system",
+    "fonts"
+  ],
+  "bugs": {
+    "url": "https://github.com/charlespeters/ff.css/issues"
+  },
+  "homepage": "https://github.com/charlespeters/ff.css#readme"
+}
