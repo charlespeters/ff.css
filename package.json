@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A collection of `font-family` utilities with the BEM `.u-` prefix.",
   "main": "index.css",
+  "browser": "./dist/ff.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "bundle": "postcss -c .postcss.json",
