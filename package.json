@@ -6,7 +6,7 @@
   "browser": "./dist/ff.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bundle": "postcss -c .postcss.json",
+    "bundle": "postcss -u postcss-custom-properties -o ./dist/ff.css ./index.css",
     "lint": "stylelint ./index.css",
     "prepublish": "npm run bundle"
   },
@@ -20,10 +20,8 @@
     "stylelint": "^7.2.0"
   },
   "dependencies": {
-    "cssnano": "^3.7.4",
     "postcss-cli": "^2.6.0",
     "postcss-custom-properties": "^5.0.1",
-    "postcss-reporter": "^1.4.1",
     "stylelint": "^7.2.0"
   },
   "repository": {
